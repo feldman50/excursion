@@ -1,3 +1,26 @@
-html {
+body {
+	background-color: black;
 	font-family: verdana;
+	color: white;
+	text-align: center;
 }
+
+h1 {
+	font-weight: normal;
+	font-size: 50px
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+h3 {
+	font-size: 21px;
+	color: gray;
+}
+
+p {
+	color: aquamarine;
+}
+
